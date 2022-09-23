@@ -1,6 +1,6 @@
 <html>
 <head>
-  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+  <link rel="icon" type="image/icon" href="images/HazelPill.png">
 </head>
 
 <body>

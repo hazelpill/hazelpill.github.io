@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <link rel="icon" type="image/icon" href="images/HazelPill.png">

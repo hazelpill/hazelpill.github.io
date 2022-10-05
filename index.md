@@ -19,6 +19,8 @@
 
 <div>
   <h3>
+    - <a href="https://github.com/hazelpill">Home</a>
+    <br>
     - <a href="https://github.com/orgs/hazelpill/repositories">Open Repositories</a>
     <br>
     - <a href="https://github.com/hazelpill/hazelpill.github.io/discussions">Discussions</a>
